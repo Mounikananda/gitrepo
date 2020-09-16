@@ -2,8 +2,10 @@ Hello world!!!
 
 login required
 
-change 2->Logout feature
+change 2->Logout feature enhancement by teammate to test 3-way merge
 
 change 3->Enhancement for login feature
 
 change 4->bug fix
+
+change 5->made by teammate for WI4
