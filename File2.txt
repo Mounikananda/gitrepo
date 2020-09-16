@@ -1,2 +1,3 @@
-change 1:change to test push
-change 2:to test pull
+change ->change to test push
+change ->to test pull
+change ->to test rebase with conflict local master and remote master ,added by team member
