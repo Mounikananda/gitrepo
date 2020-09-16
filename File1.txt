@@ -2,8 +2,9 @@ Hello world!!!
 
 login required
 
-change 2->Logout feature
+change 2:->Logout feature
 
-change 3->Enhancement for login feature
+change 3:->Enhancement for login feature
 
-change 4->bug fix
+change 4:->bug fix
+change 5: ->bug2 fix
